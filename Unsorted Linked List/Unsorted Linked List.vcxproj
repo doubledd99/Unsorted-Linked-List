@@ -138,12 +138,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ItemType.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="UnsortedType.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ItemType.h" />
     <ClInclude Include="UnsortedType.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
